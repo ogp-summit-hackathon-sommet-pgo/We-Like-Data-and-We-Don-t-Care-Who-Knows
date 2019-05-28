@@ -1,4 +1,4 @@
-# We-Like-Data-and-We-Don-t-Care-Who-Knows
+# We Like Data and We Don't Care Who Knows
 
 # Description
 We have built a visualization tool to highlight global exports by developing and least developing countries. We've examined other factors including the corruption index, types of economy, products, innovation index, and type of government to see how they've affected global trade among these countries. 
