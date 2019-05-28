@@ -3,6 +3,8 @@
 # Description
 We have built a visualization tool to highlight global exports by developing and least developing countries. We've examined other factors including the corruption index, types of economy, products, innovation index, and type of government to see how they've affected global trade among these countries. 
 
+[Visualization Tool](https://datastudio.google.com/reporting/1Rxtd0fIk7l2pKoF5Ve0UJ4NXGwy0Cg-I/page/WTwq)
+
 # Challenge
 SDG indicator 17.11.1: Bring together open data sources to tell the story of international trade flows highlighting the share of global exports by developing and least developing countries.
 
