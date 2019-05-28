@@ -15,7 +15,7 @@ SDG indicator 17.11.1: Bring together open data sources to tell the story of int
 6. [System of Governments](https://en.wikipedia.org/wiki/List_of_countries_by_system_of_government)
 
 # Team Members
-Aditya Gangraju
+Aditya Gangaraju
 
 Shawn Nielsen
 
